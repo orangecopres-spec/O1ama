@@ -1,0 +1,1 @@
+ O1ama can do math from  1+1 to 20+20 and both of the numbers you add have to be the same if it cannot recognize the command it will do hello io ewr to run install pytorch dependencies and do python3 O1ama.py
